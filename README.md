@@ -6,6 +6,7 @@ An interactive Tableau dashboard built to perform exploratory data analysis (EDA
 https://public.tableau.com/app/profile/prakruti.parmar4439/viz/KingCountyHouseSalesDashboard_17703137724920/KingCountyHouseSalesDashboard  
 
 📂 Dataset Source:
+https://github.com/prakrutiparmar/King-County-House-Sales-Tableau/blob/main/dataset/HouseData.xlsx
 
 ---
 
